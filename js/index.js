@@ -332,7 +332,7 @@ function initLiveNotification() {
   const box = $('#liveNotification');
   if (!box) return;
 
-  const products = ['프리미엄 무선 이어폰', '스마트 워치 프로', '노트북 스탠드', '무선 충전기'];
+  const products = ['런 스텝', '에너자이트 라이드 V2', '에너자이트 슈퍼 윈터', '스위스 스키 후드형 다운 자켓'];
   const names = ['김**', '이**', '박**', '최**'];
   let i = 0;
 

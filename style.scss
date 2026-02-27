@@ -472,7 +472,7 @@ header {
 /* Page Header Variants */
 .page-header--products {
   background: linear-gradient(135deg, rgba(46, 107, 168, 0.55) 0%, rgba(31, 78, 121, 0.45) 100%),
-    url('https://cdn.imweb.me/thumbnail/20250623/3f8ca4a06ce6d.jpg');
+    url('https://img.dk-on.com/contents/directImgUpload/260204_DST_TerrainD_PC_v1_01.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -488,7 +488,7 @@ header {
 
 .page-header--best {
   background: linear-gradient(135deg, rgba(255, 217, 18, 0.45) 0%, rgba(237, 32, 64, 0.45) 100%),
-    url('https://cdn.imweb.me/thumbnail/20250716/5947177243085.jpg');
+    url('https://img.dk-on.com/contents/directImgUpload/260209_DST_Hatchingroom_M02.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -504,7 +504,7 @@ header {
 
 .page-header--cart {
   background: linear-gradient(135deg, rgba(10, 117, 54, 0.5) 0%, rgba(46, 107, 168, 0.4) 100%),
-    url('https://cdn.imweb.me/thumbnail/20250703/2a3add2fa661d.png');
+    url('https://img.dk-on.com/contents/directImgUpload/260209_DST_Hatchingroom_M01.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -520,7 +520,7 @@ header {
 
 .page-header--mypage {
   background: linear-gradient(135deg, rgba(31, 78, 121, 0.5) 0%, rgba(46, 107, 168, 0.45) 100%),
-    url('https://cdn.imweb.me/thumbnail/20250716/f2251f23f5e22.jpg');
+    url('https://img.dk-on.com/contents/directImgUpload/251218_DST_MONSTER_M1_01-2.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -3473,7 +3473,6 @@ body.search-open .search-panel {
 .home-feature {
   border-radius: 18px;
   overflow: hidden;
-  background: #111;
   color: #fff;
   min-height: 360px;
   position: relative;
@@ -3834,7 +3833,7 @@ body.search-open .search-panel {
   width: 100%;
   height: 160px;
   object-fit: contain;
-  background: #fff;
+  background: #F1F1F1;
 }
 
 .hscroll .hcard .hbody {
@@ -3870,8 +3869,8 @@ body.search-open .search-panel {
 .matrix-main {
   border-radius: 18px;
   overflow: hidden;
-  background: linear-gradient(135deg, rgb(11 72 141 / 0%), rgb(25 0 211 / 53%)),
-    url("https://cdn.imweb.me/thumbnail/20250623/18eae0db13417.jpg");
+  background: linear-gradient(135deg, rgb(11 72 141 / 0%), rgba(25, 17, 78, 0.53)),
+    url("https://img.dk-on.com/product/S/Q3/SQ323LCR94/R/1780/SQ323LCR94_BEG0_R01.JPG?RS=550");
   background-position: right center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3959,7 +3958,7 @@ body.search-open .search-panel {
   width: 100%;
   height: 180px;
   object-fit: contain;
-  background: #fff;
+  background: #F1F1F1;
 }
 
 .matrix-card .mbody {
